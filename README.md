@@ -1,1 +1,3 @@
-# learning-go
+# Learning Go
+I will share the codes and simple projects I wrote while learning the go language in this repo.<br/>
+More explanation will be added...
