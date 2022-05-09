@@ -30,7 +30,7 @@ import "fmt"
 
 func main() {
 
-	// var name string = "Arin"
+	// var name string = "Baran"
 	var name = "Arin"
 	var age int16 = -256
 	var isMarried bool = true
