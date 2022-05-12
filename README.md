@@ -1,3 +1,4 @@
 # Learning Go
-I will share the codes and simple projects I wrote while learning the go language in this repo.<br/>
-More explanation will be added...
+I will share the lessons, simple projects and algorithms I used while learning Go in this repo.<br/>
+<li>To access the Go documentation : https://go.dev/doc/ </li>
+<li> Go Tutorial : https://www.w3schools.com/go/ </li>
